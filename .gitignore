@@ -30,3 +30,30 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac system files
+.DS_Store
+
+#NDK
+obj/
+
+# For Older Project Format
+# /*/out
+# /*/*/build
+# /*/*/production
+# *~
+# *.swp
+
+# If Necessary
+# *.keystore
